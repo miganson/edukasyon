@@ -2,6 +2,12 @@
 # Backend code
 This readme will specify how each route will operate
 
+## How to run using source code from git
+Node must be installed to run the backend (atleast stable version)
+1. Clone repo from https://github.com/miganson/edukasyon
+2. run npm install 
+3. run node index.js
+
 ## Model
 This is the model used in the database and how the data is stored per student.
 
